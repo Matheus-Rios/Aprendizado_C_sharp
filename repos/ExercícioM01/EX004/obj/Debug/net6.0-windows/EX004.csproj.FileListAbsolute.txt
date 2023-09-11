@@ -1,0 +1,16 @@
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\bin\Debug\net6.0-windows\EX004.exe
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\bin\Debug\net6.0-windows\EX004.deps.json
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\bin\Debug\net6.0-windows\EX004.runtimeconfig.json
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\bin\Debug\net6.0-windows\EX004.dll
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\bin\Debug\net6.0-windows\EX004.pdb
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\obj\Debug\net6.0-windows\EX004.Form1.resources
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\obj\Debug\net6.0-windows\EX004.csproj.GenerateResource.cache
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\obj\Debug\net6.0-windows\EX004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\obj\Debug\net6.0-windows\EX004.AssemblyInfoInputs.cache
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\obj\Debug\net6.0-windows\EX004.AssemblyInfo.cs
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\obj\Debug\net6.0-windows\EX004.csproj.CoreCompileInputs.cache
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\obj\Debug\net6.0-windows\EX004.dll
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\obj\Debug\net6.0-windows\refint\EX004.dll
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\obj\Debug\net6.0-windows\EX004.pdb
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\obj\Debug\net6.0-windows\EX004.genruntimeconfig.cache
+C:\Users\pc 1\source\repos\ExercícioM01\EX004\obj\Debug\net6.0-windows\ref\EX004.dll

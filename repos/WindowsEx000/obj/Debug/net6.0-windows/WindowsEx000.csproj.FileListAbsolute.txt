@@ -1,0 +1,16 @@
+C:\Users\pc 1\source\repos\WindowsEx000\bin\Debug\net6.0-windows\WindowsEx000.exe
+C:\Users\pc 1\source\repos\WindowsEx000\bin\Debug\net6.0-windows\WindowsEx000.deps.json
+C:\Users\pc 1\source\repos\WindowsEx000\bin\Debug\net6.0-windows\WindowsEx000.runtimeconfig.json
+C:\Users\pc 1\source\repos\WindowsEx000\bin\Debug\net6.0-windows\WindowsEx000.dll
+C:\Users\pc 1\source\repos\WindowsEx000\bin\Debug\net6.0-windows\WindowsEx000.pdb
+C:\Users\pc 1\source\repos\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.Programa.resources
+C:\Users\pc 1\source\repos\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.csproj.GenerateResource.cache
+C:\Users\pc 1\source\repos\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc 1\source\repos\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.AssemblyInfoInputs.cache
+C:\Users\pc 1\source\repos\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.AssemblyInfo.cs
+C:\Users\pc 1\source\repos\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.csproj.CoreCompileInputs.cache
+C:\Users\pc 1\source\repos\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.dll
+C:\Users\pc 1\source\repos\WindowsEx000\obj\Debug\net6.0-windows\refint\WindowsEx000.dll
+C:\Users\pc 1\source\repos\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.pdb
+C:\Users\pc 1\source\repos\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.genruntimeconfig.cache
+C:\Users\pc 1\source\repos\WindowsEx000\obj\Debug\net6.0-windows\ref\WindowsEx000.dll

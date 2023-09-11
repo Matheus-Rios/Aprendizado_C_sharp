@@ -1,0 +1,14 @@
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A13A\bin\Debug\net6.0\M01A13A.exe
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A13A\bin\Debug\net6.0\M01A13A.deps.json
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A13A\bin\Debug\net6.0\M01A13A.runtimeconfig.json
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A13A\bin\Debug\net6.0\M01A13A.dll
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A13A\bin\Debug\net6.0\M01A13A.pdb
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A13A\obj\Debug\net6.0\M01A13A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A13A\obj\Debug\net6.0\M01A13A.AssemblyInfoInputs.cache
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A13A\obj\Debug\net6.0\M01A13A.AssemblyInfo.cs
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A13A\obj\Debug\net6.0\M01A13A.csproj.CoreCompileInputs.cache
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A13A\obj\Debug\net6.0\M01A13A.dll
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A13A\obj\Debug\net6.0\refint\M01A13A.dll
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A13A\obj\Debug\net6.0\M01A13A.pdb
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A13A\obj\Debug\net6.0\M01A13A.genruntimeconfig.cache
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A13A\obj\Debug\net6.0\ref\M01A13A.dll

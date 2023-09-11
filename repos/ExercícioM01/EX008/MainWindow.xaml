@@ -1,0 +1,18 @@
+﻿<Window x:Class="EX008.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EX008"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="399" Width="321">
+    <Grid>
+        <Label Content="Início" HorizontalAlignment="Left" Margin="45,60,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label Content="Fim" HorizontalAlignment="Left" Margin="45,140,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.068,0.426" FontSize="24"/>
+        <Button x:Name="btnOk" Content="SORTEAR" HorizontalAlignment="Left" Margin="45,192,0,0" VerticalAlignment="Top" FontSize="24" Height="49" Width="204" Click="btnOk_Click"/>
+        <Label x:Name="lblMsg" Content="" HorizontalAlignment="Center" Margin="0,278,0,0" VerticalAlignment="Top" Width="301" Height="49" FontSize="16"/>
+        <TextBox x:Name="inicio" HorizontalAlignment="Left" Margin="129,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="36" RenderTransformOrigin="0.479,0.916"/>
+        <TextBox x:Name="fim" HorizontalAlignment="Left" Margin="129,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="39"/>
+
+    </Grid>
+</Window>

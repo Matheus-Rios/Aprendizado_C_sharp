@@ -1,0 +1,40 @@
+public class RaqueteController : MonoBehaviour
+{
+	// Fiz Alterações por mim mesmo nesse Script!
+    //Criando o meu vector 3
+    private Vector3 minhaPosicao;
+    public float meuY;
+    // Start is called before the first frame update
+    void Start()
+    {
+        //Pegando a posição inicial da raquete e aplicando à minha posição]
+        minhaPosicao = transform.position;
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+        //Passando o meuY para o eixo Y da minhaPosicao
+        minhaPosicao.y = meuY;
+
+        //Modificar a posição da minha raquete.
+        transform.position = minhaPosicao;
+
+
+        //Pegando a setinha para cima
+        //SE eu apertar a setinha para cima, ele vai subir a raquete
+        if (Input.GetKey(KeyCode.UpArrow))
+        {
+            //Ação para quando a setinha para cima for pressionada
+            //Debug.Log("Setinha para cima!!!");
+            meuY += 0.1f;
+        } else if (Input.GetKey(KeyCode.DownArrow))
+        {
+            //Ação para quando a setinha para baixo for pressionada
+            //Debug.Log("Setinha para baixo!!!");
+            meuY -= 0.1f;
+        }
+            
+    }
+}

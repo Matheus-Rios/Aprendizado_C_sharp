@@ -1,0 +1,16 @@
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\bin\Debug\net6.0-windows\M01A11B.exe
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\bin\Debug\net6.0-windows\M01A11B.deps.json
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\bin\Debug\net6.0-windows\M01A11B.runtimeconfig.json
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\bin\Debug\net6.0-windows\M01A11B.dll
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\bin\Debug\net6.0-windows\M01A11B.pdb
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\obj\Debug\net6.0-windows\M01A11B.Form1.resources
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\obj\Debug\net6.0-windows\M01A11B.csproj.GenerateResource.cache
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\obj\Debug\net6.0-windows\M01A11B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\obj\Debug\net6.0-windows\M01A11B.AssemblyInfoInputs.cache
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\obj\Debug\net6.0-windows\M01A11B.AssemblyInfo.cs
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\obj\Debug\net6.0-windows\M01A11B.csproj.CoreCompileInputs.cache
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\obj\Debug\net6.0-windows\M01A11B.dll
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\obj\Debug\net6.0-windows\refint\M01A11B.dll
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\obj\Debug\net6.0-windows\M01A11B.pdb
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\obj\Debug\net6.0-windows\M01A11B.genruntimeconfig.cache
+C:\Users\pc 1\source\repos\AMBIENTE01\M01A11B\obj\Debug\net6.0-windows\ref\M01A11B.dll

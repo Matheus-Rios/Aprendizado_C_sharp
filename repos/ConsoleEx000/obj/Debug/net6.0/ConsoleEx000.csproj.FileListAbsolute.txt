@@ -1,0 +1,14 @@
+C:\Users\pc 1\source\repos\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc 1\source\repos\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.AssemblyInfoInputs.cache
+C:\Users\pc 1\source\repos\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.AssemblyInfo.cs
+C:\Users\pc 1\source\repos\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.csproj.CoreCompileInputs.cache
+C:\Users\pc 1\source\repos\ConsoleEx000\bin\Debug\net6.0\ConsoleEx000.exe
+C:\Users\pc 1\source\repos\ConsoleEx000\bin\Debug\net6.0\ConsoleEx000.deps.json
+C:\Users\pc 1\source\repos\ConsoleEx000\bin\Debug\net6.0\ConsoleEx000.runtimeconfig.json
+C:\Users\pc 1\source\repos\ConsoleEx000\bin\Debug\net6.0\ConsoleEx000.dll
+C:\Users\pc 1\source\repos\ConsoleEx000\bin\Debug\net6.0\ConsoleEx000.pdb
+C:\Users\pc 1\source\repos\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.dll
+C:\Users\pc 1\source\repos\ConsoleEx000\obj\Debug\net6.0\refint\ConsoleEx000.dll
+C:\Users\pc 1\source\repos\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.pdb
+C:\Users\pc 1\source\repos\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.genruntimeconfig.cache
+C:\Users\pc 1\source\repos\ConsoleEx000\obj\Debug\net6.0\ref\ConsoleEx000.dll

@@ -1,0 +1,14 @@
+C:\Users\pc 1\source\repos\CorreçõesM01\CEX001\bin\Debug\net6.0\CEX009.exe
+C:\Users\pc 1\source\repos\CorreçõesM01\CEX001\bin\Debug\net6.0\CEX009.deps.json
+C:\Users\pc 1\source\repos\CorreçõesM01\CEX001\bin\Debug\net6.0\CEX009.runtimeconfig.json
+C:\Users\pc 1\source\repos\CorreçõesM01\CEX001\bin\Debug\net6.0\CEX009.dll
+C:\Users\pc 1\source\repos\CorreçõesM01\CEX001\bin\Debug\net6.0\CEX009.pdb
+C:\Users\pc 1\source\repos\CorreçõesM01\CEX001\obj\Debug\net6.0\CEX009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc 1\source\repos\CorreçõesM01\CEX001\obj\Debug\net6.0\CEX009.AssemblyInfoInputs.cache
+C:\Users\pc 1\source\repos\CorreçõesM01\CEX001\obj\Debug\net6.0\CEX009.AssemblyInfo.cs
+C:\Users\pc 1\source\repos\CorreçõesM01\CEX001\obj\Debug\net6.0\CEX009.csproj.CoreCompileInputs.cache
+C:\Users\pc 1\source\repos\CorreçõesM01\CEX001\obj\Debug\net6.0\CEX009.dll
+C:\Users\pc 1\source\repos\CorreçõesM01\CEX001\obj\Debug\net6.0\refint\CEX009.dll
+C:\Users\pc 1\source\repos\CorreçõesM01\CEX001\obj\Debug\net6.0\CEX009.pdb
+C:\Users\pc 1\source\repos\CorreçõesM01\CEX001\obj\Debug\net6.0\CEX009.genruntimeconfig.cache
+C:\Users\pc 1\source\repos\CorreçõesM01\CEX001\obj\Debug\net6.0\ref\CEX009.dll

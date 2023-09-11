@@ -1,0 +1,1 @@
+﻿create table Pessoas (nome varchar(80) not null, cpf char(11) primary key, dataDeNascimento date);
